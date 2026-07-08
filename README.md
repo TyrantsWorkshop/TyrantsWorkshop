@@ -85,9 +85,10 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 
 **Media & Creative:**  
 <img src="https://cdn.simpleicons.org/davinciresolve/5A5A5A" alt="DaVinci Resolve" width="45" height="45" /> &nbsp;
-<img src="https://cdn.simpleicons.org/capcut/FFFFFF" alt="CapCut" width="45" height="45" /> &nbsp;
+<img src="https://cdn.simpleicons.org/capcut/000000" alt="CapCut" width="45" height="45" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" /> &nbsp;
 <img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" alt="Lightroom" width="45" height="45" />
+
 <br>
 ### 🌐 Find Me Elsewhere
 
