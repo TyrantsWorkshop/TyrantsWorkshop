@@ -77,8 +77,8 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 <br>
 ### 🌐 Find Me Elsewhere
 
-<a href="https://instagram.com/your-profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://instagram.com/your-profile"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a>
+<a href="https://leetcode.com/your-username"><img src="https://skillicons.dev/icons?i=leetcode&theme=dark" alt="LeetCode" /></a>
 
 <div align="center">
 
