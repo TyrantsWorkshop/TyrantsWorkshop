@@ -71,17 +71,13 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" />
 <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="bootstrap" />
 <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="opencv" />
-[SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="mysql" />
 <img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="matlab" />
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries:** 
 <br>
 <img src="https://skillicons.dev/icons?i=django&theme=dark" alt="django" />
-[Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-[Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-[NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-[Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="tailwind" />
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="tensorflow" />
 <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="sklearn" />
@@ -90,13 +86,16 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="vercel" />
 <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="opencv" />
 <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="fastapi" />
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 
 
 **Tools & Workflows:** 
 <br>
-[JASP](https://img.shields.io/badge/JASP-00529B?style=for-the-badge&logo=googleanalytics&logoColor=white)
 <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" />
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="vscode" />
 <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="pycharm" />
@@ -105,6 +104,7 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="azure" />
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="aws" />
 <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="anaconda" />
+![JASP](https://img.shields.io/badge/JASP-00529B?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 
 
