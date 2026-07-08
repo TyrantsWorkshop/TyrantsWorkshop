@@ -85,7 +85,7 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 
 **Media & Creative:**  
 <img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" />
-<img src="https://img.shields.io/badge/DaVinci_Resolve-181717?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+<img src="[https://img.shields.io/badge/DaVinci_Resolve-181717?style=for-the-badge&logo=davinciresolve&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg)" alt="DaVinci Resolve" />
 <img src="https://img.shields.io/badge/Lightroom-181717?style=for-the-badge&logo=adobelightroom&logoColor=%2331A8FF" alt="Lightroom" />
 <img src="https://img.shields.io/badge/CapCut-181717?style=for-the-badge&logoColor=white" alt="CapCut" />
 <br>
