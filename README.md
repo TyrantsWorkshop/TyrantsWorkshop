@@ -81,6 +81,8 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 <a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TyrantsWorkshop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=TyrantsWorkshop&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TyrantsWorkshop&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TyrantsWorkshop&theme=tokyonight&hide_border=true)
+
 </div>
