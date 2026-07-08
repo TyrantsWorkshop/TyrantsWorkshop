@@ -62,26 +62,49 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 
 **Languages:** 
 <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="java" />
+<img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="Javascript" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="Html" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="bootstrap" />
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="opencv" />
+[SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="mysql" />
+<img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="matlab" />
 
 **Frameworks & Libraries:** 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django&theme=dark" alt="django" />
+[Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+[Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+[NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+[Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="tailwind" />
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="tensorflow" />
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="sklearn" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="react" />
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="pytorch" />
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="vercel" />
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="opencv" />
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="fastapi" />
+
+
+
 
 **Tools & Workflows:** 
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![JASP](https://img.shields.io/badge/JASP-00529B?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+[JASP](https://img.shields.io/badge/JASP-00529B?style=for-the-badge&logo=googleanalytics&logoColor=white)
+<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="vscode" />
+<img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="pycharm" />
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="idea" />
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="figma" />
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="azure" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="aws" />
+<img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="anaconda" />
+
+
 
 **Media & Creative:**  
 <img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" />
