@@ -82,7 +82,7 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TyrantsWorkshop&theme=default)
+![GitHub Streak]([https://streak-stats.demolab.com/?user=TyrantsWorkshop&theme=default](https://github-readme-streak-stats.herokuapp.com/?user=TyrantsWorkshop&theme=default.))
 
 </div>
 <div align="center">
