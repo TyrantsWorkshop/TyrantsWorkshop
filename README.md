@@ -61,6 +61,7 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 ### 💻 Tech Stack Highlights
 
 **Languages:** 
+<br>
 <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
 <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="java" />
 <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />
@@ -94,6 +95,7 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 
 
 **Tools & Workflows:** 
+<br>
 [JASP](https://img.shields.io/badge/JASP-00529B?style=for-the-badge&logo=googleanalytics&logoColor=white)
 <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" />
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="vscode" />
@@ -107,6 +109,7 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 
 
 **Media & Creative:**  
+<br>
 <img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" />
 <img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion"/>
 
