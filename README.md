@@ -82,8 +82,7 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TyrantsWorkshop&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=TyrantsWorkshop&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TyrantsWorkshop&theme=default)
 
 </div>
 <div align="center">
