@@ -61,7 +61,7 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 ### 💻 Tech Stack Highlights
 
 **Languages:** 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python]<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
