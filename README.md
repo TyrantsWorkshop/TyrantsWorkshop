@@ -87,6 +87,6 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 </div>
 <div align="center">
 
-![Animated Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TyrantsWorkshop&theme=tokyo-night&hide_border=true&area=true)
+![Animated Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TyrantsWorkshop&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&hide_border=true)
 
 </div>
