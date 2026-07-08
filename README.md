@@ -26,18 +26,19 @@ Currently, I am exploring real-time computer vision (like sign language interpre
 
 #### 🤖 Machine Learning & Data Science
 * **Fundamentals:** Supervised/Unsupervised learning, Cross-validation, Model evaluation metrics.
-* **Algorithms:** Linear & Logistic Regressions, Support Vector Machines (SVM).
+* **Algorithms:** Linear & Logistic Regressions, Support Vector Machines (SVM), k-Nearest Neighbors (kNN), Decision Tree, XGBoost classifier and regression
 * **Deep Learning:** Neural Networks, Natural Language Processing (NLP), and Computer Vision (MediaPipe).
+* **Transformers:** Vision Transformer(ViT), Detection Transformer(DETR), Keypoint Transformer.
 * **Data Visualization:** Advanced statistical analysis and dynamic charting using **JASP**.
 
 #### 🐍 Python Ecosystem
 * **Core Python:** Object-Oriented Programming (OOP), Data structures, Scripting, and Pandas/NumPy data manipulation.
 * **Django:** REST API design, ORM database management, user authentication, and secure backend architecture.
 * **Flask:** Lightweight API routing and microservice deployment.
-* **Data Apps:** Rapid prototyping and interactive dashboards using **Streamlit**.
+* **Data Apps:** Rapid prototyping and interactive dashboards using **Streamlit** and **Render**.
 
 #### ☕ Java & Software Engineering
-* **Core Java:** Strong grasp of OOP principles (Inheritance, Polymorphism, Encapsulation).
+* **Core Java:** Basics of OOP principles (Inheritance, Polymorphism, Encapsulation).
 * **Concepts:** Multithreading, Exception handling, and Memory management.
 * **Algorithms:** Implementing efficient Data Structures and algorithm optimization.
 
