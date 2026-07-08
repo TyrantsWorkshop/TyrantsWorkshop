@@ -84,10 +84,10 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **Media & Creative:**  
-<img src="https://img.shields.io/badge/--181717?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-<img src="https://img.shields.io/badge/--181717?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
-<img src="https://img.shields.io/badge/--181717?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
-<img src="https://img.shields.io/badge/--181717?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF" alt="Lightroom" />
+<img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+<img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+<img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+<img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF" alt="Lightroom" />
 
 <br>
 ### 🌐 Find Me Elsewhere
