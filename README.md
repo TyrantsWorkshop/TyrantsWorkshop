@@ -83,13 +83,11 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 ![JASP](https://img.shields.io/badge/JASP-00529B?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**Media & Creative:**
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-5A5A5A?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Snapseed](https://img.shields.io/badge/Snapseed-%2381C995.svg?style=for-the-badge&logoColor=white)
-
+**Media & Creative:**  
+<img src="https://cdn.simpleicons.org/davinciresolve/5A5A5A" alt="DaVinci Resolve" width="45" height="45" /> &nbsp;
+<img src="https://cdn.simpleicons.org/capcut/FFFFFF" alt="CapCut" width="45" height="45" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" /> &nbsp;
+<img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" alt="Lightroom" width="45" height="45" />
 <br>
 ### 🌐 Find Me Elsewhere
 
