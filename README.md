@@ -59,11 +59,6 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 ---
 
 ### 💻 Tech Stack Highlights
-
-<details>
-<summary><b>Click to expand full tech stack badges</b></summary>
-<br>
-
 **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -79,11 +74,13 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 ![JASP](https://img.shields.io/badge/JASP-00529B?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</details>
-
 <br>
+### 🌐 Find Me Elsewhere
+
+<a href="https://instagram.com/your-profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TyrantsWorkshop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TyrantsWorkshop&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
