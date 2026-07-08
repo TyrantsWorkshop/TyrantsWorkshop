@@ -82,5 +82,5 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TyrantsWorkshop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TyrantsWorkshop&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=TyrantsWorkshop&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
