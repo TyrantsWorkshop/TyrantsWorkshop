@@ -93,7 +93,6 @@ To accelerate development and maintain high-efficiency pipelines, I heavily inte
 
 
 **Tools & Workflows:** 
-[n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 [JASP](https://img.shields.io/badge/JASP-00529B?style=for-the-badge&logo=googleanalytics&logoColor=white)
 <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" />
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="vscode" />
